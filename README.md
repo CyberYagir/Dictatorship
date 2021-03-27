@@ -1,3 +1,3 @@
 # Dictatorship
-**Game https://gamejolt.com/games/D/582707
+<h2>Game https://gamejolt.com/games/D/582707
 ![GitHub Logo](tumbnail.jpg)
