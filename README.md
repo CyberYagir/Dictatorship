@@ -4,4 +4,7 @@
 <p>Unity ver: 2019.4.0f1</p>
 
 <br>
-<img src="tumbnail.jpg" style="box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);">
+<style>
+  img{box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);}
+</style>
+<img src="tumbnail.jpg">
