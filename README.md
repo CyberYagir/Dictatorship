@@ -1,4 +1,8 @@
 # Dictatorship
-<h2>Game https://gamejolt.com/games/D/582707 </h2>
+<h2>Game <a href="https://gamejolt.com/games/D/582707">link</a></h2>
+<h3>
+
+<p>Unity ver: 2019.4.0f1</p>
+
 <br>
 <img src="tumbnail.jpg">
